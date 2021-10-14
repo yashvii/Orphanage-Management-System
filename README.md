@@ -6,3 +6,4 @@ Our project is based on orphan house database management system. The database co
     -Yashvi Mohta 
     -Khyati Heda 
     -Kamakshi Bhatt
+    -Aritam (Analysis and Design)
