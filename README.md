@@ -3,6 +3,6 @@ Our project is based on orphan house database management system. The database co
 
 
 ## Contributors
--Yashvi Mohta 
--Khyati Heda 
--Kamakshi Bhatt
+    -Yashvi Mohta 
+    -Khyati Heda 
+    -Kamakshi Bhatt
